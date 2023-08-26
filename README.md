@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aaditya Kumar
-- 👀 I’m a Data Science enthusiast
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m a Data and Java Enthusiast
+- 🌱 I’m currently learning Spring
+- 💞️ I’m looking to collaborate on Java and Python projects
 - 📫 How to reach me aadityakrsingh1@gmail.com 
 
 <!---
